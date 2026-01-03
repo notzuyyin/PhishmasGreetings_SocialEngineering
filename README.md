@@ -41,19 +41,21 @@ phising and spam and spot phishing emails.
 
 **Room Access**
 
-[Day 12 Room]
+[Day 12 Room](phising greetings.png)
 
 **Task Overview**
 
-[Day 12 Task]
+[Day 12 Task] (task 1.png) 
+(task 2.png) (email.png)
+
 
 **Questions & Answers**
 
-[Day 12 Q1 - Q6]
+[Day 12 Q1 - Q6] (task 2.png)
 
 **Completion Proof**
 
-[Day 12 Complete]
+[Day 12 Complete] (done.png)
 
 
 
